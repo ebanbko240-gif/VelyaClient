@@ -1,7 +1,6 @@
 {
-  "whitelisted_hwids": [
-    "61A5109C-1620-470D-8C27-59D3CCE8F544",
-    "hwid_пример_2",
-    "hwid_пример_3"
-  ]
+    "allowedHWIDs": [
+        "HWID-9382762362",
+        "HWID-87654321"
+    ]
 }
