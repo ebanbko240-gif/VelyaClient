@@ -1,7 +1,6 @@
 {
-  "allowedHWIDs": [
-    "61A5109C-1620-470D-8C27-59D3CCE8F544",
-    "ДРУГОЙ_HWID_1",
-    "ДРУГОЙ_HWID_2"
-  ]
+    "allowedHWIDs": [
+        "TEST-HWID-1234"
+    ]
 }
+
